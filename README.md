@@ -2,6 +2,10 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/igorccouto/eventex-igorcouto.svg?branch=master)](https://travis-ci.org/igorccouto/eventex-igorcouto)
+[![Code Health](https://landscape.io/github/igorccouto/eventex-igorcouto/master/landscape.svg?style=flat)](https://landscape.io/github/igorccouto/eventex-igorcouto/master)
+
+
 ## Como desenvolver?
 
 1. Clone o repositório
